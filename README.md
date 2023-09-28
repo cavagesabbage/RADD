@@ -1,6 +1,6 @@
 # RADD
 
-The "Clustering" Folder contains the files required to train and run the clustering models, as well as the data files that are used.
+The "Unsupervised Learning" Folder contains the files required to train and run the models, as well as the data files that are used.
 
 The "Rule-checking" Folder contains the Aprioiri file required to generate the rules, as well as the data files that are used.
 
